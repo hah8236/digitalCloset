@@ -1,5 +1,3 @@
-// Represents a closet
-
 import java.util.*;
 
 // Class representing a closet
